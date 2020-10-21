@@ -147,6 +147,6 @@
                 
             </svg>
         </wrapper><br>
-        <a href="https://github.com/johnpaulmaja/SVG/" target="_blank">Github Link here!</a>
+        <a href="https://github.com/johnpaulmaja/svg-animation" target="_blank">Github Link here!</a>
     </body>
 </html>
